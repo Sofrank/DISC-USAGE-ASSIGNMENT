@@ -4,7 +4,7 @@
 # 2. Backup-Script Tar-Archive. 
 ![Tar-Archive](Backup_Script_Tar-Archive.jpg)
 # 3. Shell-Script.sh.
-![ShellScript](Shell_Script.sh,jpg)
+![ShellScript](Shell_Script.sh.jpg)
 # 4. Shell-Script Default-Value.
 ![Default-Value](Shell_Script_8-Default-Value.jpg)
 # 5. Shell-Script D-Var
